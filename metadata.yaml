@@ -1,0 +1,73 @@
+_repo: Martin-Chuzzlewit_968
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 968/968-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "The Life and Adventures of Martin Chuzzlewit (commonly known as Martin\
+  \ Chuzzlewit) is a novel by Charles Dickens, considered the last of his picaresque\
+  \ novels. It was originally serialised in 1843 and 1844. Dickens thought it to be\
+  \ his best work, but it was one of his least popular novels. Like nearly all of\
+  \ Dickens' novels, Martin Chuzzlewit was released to the public in monthly instalments.\
+  \ Early sales of the monthly parts were disappointing, compared to previous works,\
+  \ so Dickens changed the plot to send the title character to America. This allowed\
+  \ the author to portray the United States (which he had visited in 1842) satirically\
+  \ as a near wilderness with pockets of civilisation filled with deceptive and self-promoting\
+  \ hucksters.\nThe main theme of the novel, according to a preface by Dickens, is\
+  \ selfishness, portrayed in a satirical fashion using all the members of the Chuzzlewit\
+  \ family. The novel is also notable for two of Dickens' great villains, Seth Pecksniff\
+  \ and Jonas Chuzzlewit. It is dedicated to Angela Georgina Burdett-Coutts, a friend\
+  \ of Dickens.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '968'
+  wikidata: Q1903609
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Avarice -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'United States -- Description and travel -- Fiction'
+- !lcsh 'Grandfathers -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Satire'
+- !lcc 'PR'
+- !lcsh 'Black humor'
+- !lcsh 'Adventure stories'
+- !lcsh 'British -- United States -- Fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Martin Chuzzlewit
+url: http://www.gutenberg.org/ebooks/968
+wikipedia:
+- https://fr.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%AA%D9%86_%D8%AA%D8%B4%D9%8A%D8%B2%D9%84%D9%88%D9%8A%D8%AA
+- https://nl.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A3%E3%82%BA%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%83%E3%83%88
+- https://pl.wikipedia.org/wiki/Marcin_Chuzzlewit
+- https://en.wikiquote.org/wiki/Martin_Chuzzlewit
+- https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C_%D9%88_%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D8%AC%D9%88%DB%8C%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86_%DA%86%D9%88%D8%B2%D9%84%D9%88%DB%8C%D8%AA
+- https://de.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://es.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://cy.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://en.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://kw.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://commons.wikimedia.org/wiki/Martin_Chuzzlewit
+- https://pt.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D0%B7%D0%BB%D0%B2%D0%B8%D1%82
+- https://sv.wikipedia.org/wiki/Martin_Chuzzlewit
+- https://it.wikipedia.org/wiki/Martin_Chuzzlewit
