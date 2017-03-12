@@ -1,10 +1,8 @@
 _repo: Martin-Chuzzlewit_968
-_version: 0.1.0
+_version: 0.2.0
 covers:
-- cover_type: archival
-  image_path: 968/968-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -28,6 +26,8 @@ description: "The Life and Adventures of Martin Chuzzlewit (commonly known as Ma
   \ family. The novel is also notable for two of Dickens' great villains, Seth Pecksniff\
   \ and Jonas Chuzzlewit. It is dedicated to Angela Georgina Burdett-Coutts, a friend\
   \ of Dickens.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/968#Martin-Chuzzlewit
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-04-27'
 gutenberg_type: Text
